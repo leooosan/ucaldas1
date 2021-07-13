@@ -1,16 +1,16 @@
 <resources>
     <string name="app_name">ProyectoUCaldas</string>
-    <string name="et_username">Username</string>
-    <string name="et_name">Name</string>
-    <string name="et_lastname">Lastname</string>
+    <string name="et_username">Nombre de Usuario</string>
+    <string name="et_name">Nombre</string>
+    <string name="et_lastname">Apellido</string>
     <string name="et_email">Email</string>
-    <string name="et_password">Password</string>
-    <string name="btn_login">Login</string>
-    <string name="btn_register">Register</string>
-    <string name="title_register">R E G I S T E R</string>
-    <string name="txt_title_register">Register</string>
-    <string name="txt_register_ok">Register sucessfull</string>
-    <string name="txt_accept">Accept</string>
-    <string name="txt_cancel">Cancel</string>
-    <string name="conditions">Accept conditions</string>
+    <string name="et_password">Contraseña</string>
+    <string name="btn_login">Acceso</string>
+    <string name="btn_register">Registro</string>
+    <string name="title_register">R E G I S T R O</string>
+    <string name="txt_title_register">Registro</string>
+    <string name="txt_register_ok">Registro exitoso</string>
+    <string name="txt_accept">Aceptar</string>
+    <string name="txt_cancel">Cancelar</string>
+    <string name="conditions">Aceptar condiciones</string>
 </resources>
